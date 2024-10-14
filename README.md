@@ -10,13 +10,14 @@
 ✨ Let's connect and share ideas!
 
 ## 🚀 Technical Skills
-- **Languages:** C, C++, JavaScript, PHP , SQL
+- **Languages:** C, C++, JavaScript, PHP , SQL ,Assembly ,Prolog ,Jquery
 - **Frameworks & Tools:**
      - **Backend:** Express, Node.js, MongoDB, bcrypt, JWT, Mongoose
      - **Frontend:** React, Axios, React Router, React Toastify, Styled Components
 - **APIs:** Experience in building and consuming RESTful APIs
 - **Security Tools:** Fedora
 - **Database Knowledge:** E/R Model, Relational Model, SQL, Relational Algebra , NoSQL
+- others : HTML5 ,CSS3,LATEX,GIT,Shell
 
 ## 📚 Learning & Goals
 ### Short-Term Goals:
