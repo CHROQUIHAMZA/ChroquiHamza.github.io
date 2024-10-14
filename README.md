@@ -17,7 +17,7 @@
 - **APIs:** Experience in building and consuming RESTful APIs
 - **Security Tools:** Fedora
 - **Database Knowledge:** E/R Model, Relational Model, SQL, Relational Algebra , NoSQL
-- others : HTML5 ,CSS3,LATEX,GIT,Shell
+- **others** : HTML5, CSS3, LATEX, GIT, Shell
 
 ## 📚 Learning & Goals
 ### Short-Term Goals:
